@@ -1,0 +1,12 @@
+.sidebar{
+background:#343a40;
+min-height:100vh;
+}
+
+.nav-link:hover{
+background:#495057;
+}
+
+.card{
+border-radius:10px;
+}
